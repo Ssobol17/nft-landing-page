@@ -24,6 +24,7 @@
 
 body {
   background-color: var(--bg-color);
+  background-image: url(phuket-island.jpg);
   display: flex;
   flex-flow: column;
   height: 100vh;
